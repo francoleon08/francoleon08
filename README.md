@@ -44,9 +44,9 @@
     <a href="https://www.w3schools.com/css/" target="_blank"> 
         <img src="https://img.icons8.com/color/48/000000/css3.png"/> 
     </a>      
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> 
-        <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> 
-    </a>  
+    <a href="https://www.w3schools.com/sql/sql_intro.asp" target="_blank"> 
+        <img width="44" height="44" src="https://img.icons8.com/external-those-icons-lineal-color-those-icons/48/external-SQL-development-files-those-icons-lineal-color-those-icons.png" alt="external-SQL-development-files-those-icons-lineal-color-those-icons"/>
+    </a>
 </p>
 
 - **Frameworks**:
@@ -59,6 +59,14 @@
     </a>    
 </p>
 
+- **Databses**:
+<p align="left">
+    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> 
+        <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> 
+    </a>      
+</p>
+
+
 - **Softwares and Tools**:
 <p align="left">
     <a href="https://spring.io/projects/spring-boot" target="_blank"> 
@@ -69,6 +77,9 @@
     </a>
     <a href="https://sass-lang.com/" target="_blank">
         <img width="48" height="48" src="https://img.icons8.com/color/48/sass-avatar.png" alt="sass-avatar"/>
+    </a>  
+    <a href="https://www.postman.com/" target="_blank">
+        <img width="48" height="48" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/postman_macos_bigsur_icon_189815.png" alt="sass-avatar"/>
     </a>  
 </p>
 
@@ -103,9 +114,9 @@
 <td width="50%" align="center">
   <img  align="left"  src="https://github-readme-stats.vercel.app/api?username=francoleon08&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=francoleon08&theme=dark&hide_border=false" /> 
+  <br></br>
+  <img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=francoleon08&theme=dark&hide_border=false" /> 
 </td>
-
 
 <td width="50%" align="center">
 
