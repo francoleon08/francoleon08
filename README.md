@@ -78,7 +78,10 @@
     </a>  
     <a href="https://www.postman.com/" target="_blank">
         <img width="48" height="48" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/postman_macos_bigsur_icon_189815.png" alt="sass-avatar"/>
-    </a>  
+    </a>
+    <a href="https://www.docker.com/" target="_blank">
+        <img width="48" height="48" src="https://img.icons8.com/color/48/docker.png" alt="sass-avatar"/>
+    </a> 
 </p>
 
 - **Operating Systems**:
