@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-    Soy estudiante de Licenciatura en Ciencias de la Computación, en la Universidad Nacional del Sur.
+    ¡Hola! Soy Franco, estudiante de Licenciatura en Ciencias de la Computación en la Universidad Nacional del Sur. Apasionado por la tecnología y el desarrollo de software, me especializo en el desarrollo Back End utilizando Java y Spring Boot, así como en la creación de APIs con Python y FastAPI.
 </div>
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Contacto 🤝 </h3>
@@ -19,12 +19,15 @@
         <a href="https://www.instagram.com/francoleon08/" target="_blanK">
             <img width="48" height="48" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="instagram-new"/>
         </a>
-        <a style="margin-left: 10px;"  target="_blank" href="mailto:francoleon284@gmail.com">
+        <a style="margin-left: 10px;"  target="_blank" href="mailto:francoleondev@gmail.com">
 			<img width="48" height="48" src="https://img.icons8.com/color/48/gmail-new.png" alt="gmail-new"/>
         </a>
 <div align="left">
 
-## 🔥 SKILLS:
+
+<div align="left">
+  <h1>🔥 SKILLS:</h1>
+</div>
 
 - **Languages**:
 <p align="left"> 
@@ -32,7 +35,11 @@
         <img src="https://img.icons8.com/color/452/c-programming.png" alt="express" width="44" height="44"/> 
     </a>
     <a href="https://www.java.com" target="_blank"> 
-        <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/ > </a>
+        <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/ > 
+    </a>
+    <a href="https://www.python.org/" target="_blank">
+	<img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
+    </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
         <img src="https://img.icons8.com/color/48/000000/javascript.png"/> 
     </a> 
@@ -55,13 +62,22 @@
     <a href="https://getbootstrap.com/" target="_blank"> 
         <img width="48" height="48" src="https://img.icons8.com/color/48/bootstrap--v1.png" alt="bootstrap--v1"/>
     </a>    
+    <a href="https://fastapi.tiangolo.com/" target="_blank">	
+	<img width="48" height="48" src="https://fastapi.tiangolo.com/img/icon-white.svg" alt="logo">
+    </a>
 </p>
 
-- **Databses**:
+- **Databases**:
 <p align="left">
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> 
         <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> 
     </a>      
+    <a style="padding-right:8px;" href="https://www.postgresql.org/" target="_blank"> 
+        <img width="48" height="48" src="https://img.icons8.com/plasticine/100/postgreesql.png" alt="postgreesql"/>
+    </a>    
+    <a style="padding-right:8px;" href="https://redis.io/es/" target="_blank"> 
+        <img width="48" height="48" src="https://img.icons8.com/color/48/redis--v1.png" alt="redis--v1"/>
+    </a>    
 </p>
 
 
@@ -82,6 +98,12 @@
     <a href="https://www.docker.com/" target="_blank">
         <img width="48" height="48" src="https://img.icons8.com/color/48/docker.png" alt="sass-avatar"/>
     </a> 
+    <a href="https://insomnia.rest/" target="_blank">
+	<img width="48" height="48" src="https://raw.githubusercontent.com/Kong/insomnia/develop/packages/insomnia/src/icons/icon.ico">
+    </a>
+    <a href="https://www.phpmyadmin.net/" target="_blank">
+	<img height="48" src="https://www.phpmyadmin.net/static/images/logo.png?067b638aa2a2">
+    </a>
 </p>
 
 - **Operating Systems**:
@@ -100,7 +122,10 @@
         <img width="48" height="48" src="https://img.icons8.com/color/48/intellij-idea.png" alt="intellij-idea"/>
     </a>
     <a href="https://www.jetbrains.com/es-es/clion/" target="_blank">
-        <img width="40" height="45" src="https://cdn.worldvectorlogo.com/logos/clion-1.svg" alt="intellij-idea"/>
+        <img width="40" height="45" src="https://cdn.worldvectorlogo.com/logos/clion-1.svg" alt="clion"/>
+    </a>
+    <a href="https://www.jetbrains.com/es-es/pycharm/" target="_blank">
+        <img width="48" height="48" src="https://img.icons8.com/color/48/pycharm--v2.png" alt="pycharm--v2"/>
     </a>
     <a href="https://code.visualstudio.com/" target="_blank">
         <img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
@@ -108,9 +133,40 @@
 </p>
 </div>
 
+
+
+<div align="left">
+  <h1>🚀 Repositorios Destacados:</h1>
+</div>
+
+<p align="center">
+  <a href="https://github.com/francoleon08/proyecto_dyds" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=francoleon08&repo=proyecto-dyds&theme=dark" alt="Proyecto-DyDS"/>
+  </a>  
+  <a href="https://github.com/francoleon08/Prodeconsa-SA" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=francoleon08&repo=Prodeconsa-SA&theme=dark" alt="Prodeconsa-SA"/>
+  </a>  
+</p>
+<p align="center">
+  <a href="https://github.com/francoleon08/proyectobd2023-leon-oyarzun" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=francoleon08&repo=proyectobd2023-leon-oyarzun&theme=dark" alt="proyectobd2023-leon-oyarzun"/>
+  </a>  
+  <a href="https://github.com/francoleon08/Planificador-de-viajes" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=francoleon08&repo=Planificador-de-viajes&theme=dark" alt="Planificador-de-viajes"/>
+  </a>  
+</p>
+<p align="center">
+  <a href="https://github.com/francoleon08/LiterAlura-Challange" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=francoleon08&repo=LiterAlura-Challange&theme=dark" alt="LiterAlura-Challange"/>
+  </a>  
+  <a href="https://github.com/francoleon08/https://github.com/francoleon08/API-RESTFul---Spring-Boot" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=francoleon08&repo=API-RESTFul---Spring-Boot&theme=dark" alt="API-RESTFul---Spring-Boot"/>
+  </a>  
+</p>
+
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture> Github Stats
 
-<table align="left">
+<table align="center">
 <tr border="none">
 <td width="50%" align="center">
   <img  align="left"  src="https://github-readme-stats.vercel.app/api?username=francoleon08&theme=dark&show_icons=true&count_private=true" />
