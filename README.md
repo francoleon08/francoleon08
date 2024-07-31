@@ -140,7 +140,7 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/francoleon08/proyecto_dyds" target="_blank">
+  <a href="https://github.com/francoleon08/proyecto-dyds" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=francoleon08&repo=proyecto-dyds&theme=dark" alt="Proyecto-DyDS"/>
   </a>  
   <a href="https://github.com/francoleon08/Prodeconsa-SA" target="_blank">
@@ -159,7 +159,7 @@
   <a href="https://github.com/francoleon08/LiterAlura-Challange" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=francoleon08&repo=LiterAlura-Challange&theme=dark" alt="LiterAlura-Challange"/>
   </a>  
-  <a href="https://github.com/francoleon08/https://github.com/francoleon08/API-RESTFul---Spring-Boot" target="_blank">
+  <a href="https://github.com/francoleon08/API-RESTFul---Spring-Boot" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=francoleon08&repo=API-RESTFul---Spring-Boot&theme=dark" alt="API-RESTFul---Spring-Boot"/>
   </a>  
 </p>
