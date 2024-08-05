@@ -159,8 +159,8 @@
   <a href="https://github.com/francoleon08/LiterAlura-Challange" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=francoleon08&repo=LiterAlura-Challange&theme=dark" alt="LiterAlura-Challange"/>
   </a>  
-  <a href="https://github.com/francoleon08/API-RESTFul---Spring-Boot" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=francoleon08&repo=API-RESTFul---Spring-Boot&theme=dark" alt="API-RESTFul---Spring-Boot"/>
+  <a href="https://github.com/francoleon08/user-service" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=francoleon08&repo=user-service&theme=dark" alt="user-service"/>
   </a>  
 </p>
 
