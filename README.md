@@ -177,8 +177,10 @@
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=francoleon08&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=7"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=francoleon08&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=8"/>
 
   </td>
 </tr>
 </table>
+
+<p href="https://github.com/francoleon08" align="center"><img src="https://komarev.com/ghpvc/?username=francoleon08&style=for-the-badge&label=PROFILE+VIEWS&color=3e97f0"></img></p>
