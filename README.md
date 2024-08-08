@@ -7,7 +7,14 @@
 </div>
 
 <div align="center">
-    ¡Hola! Soy Franco, estudiante de Licenciatura en Ciencias de la Computación en la Universidad Nacional del Sur. Apasionado por la tecnología y el desarrollo de software, me especializo en el desarrollo Back End utilizando Java y Spring Boot, así como en la creación de APIs con Python y FastAPI.
+    <p>Actualmente, estudio Licenciatura en Ciencias de la Computación en la Universidad Nacional del Sur.</p>
+    <p>Me especializo en desarrollo Backend, con una sólida experiencia en Java y Spring Boot. Mis competencias incluyen el diseño y desarrollo de servicios RESTful, la integración de bases de datos y la implementación de pruebas automatizadas. Estoy apasionado por aplicar mis habilidades en entornos colaborativos, donde pueda contribuir al crecimiento del equipo y seguir perfeccionando mis capacidades técnicas.</p>
+</div>
+
+<div align="center">
+	<p></p>
+	<p>Puedes descargar mi CV en el siguiente enlace:</p>
+	<a href="https://github.com/francoleon08/francoleon08/blob/main/CV.pdf" target="_blanK">¡Click aqui!</a>
 </div>
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Contacto 🤝 </h3>
