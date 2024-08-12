@@ -7,8 +7,8 @@
 </div>
 
 <div align="center">
-    <p style="text-align: justify;">Actualmente, estudio Licenciatura en Ciencias de la Computación en la Universidad Nacional del Sur.</p>
-    <p style="text-align: justify;">Me especializo en desarrollo Backend, con una sólida experiencia en Java y Spring Boot. Mis competencias incluyen el diseño y desarrollo de servicios RESTful, la integración de bases de datos y la implementación de pruebas automatizadas. Estoy apasionado por aplicar mis habilidades en entornos colaborativos, donde pueda contribuir al crecimiento del equipo y seguir perfeccionando mis capacidades técnicas.</p>
+    <p>Actualmente, estudio Licenciatura en Ciencias de la Computación en la Universidad Nacional del Sur.</p>
+    <p>Me especializo en desarrollo Backend, con una sólida experiencia en Java y Spring Boot. Mis competencias incluyen el diseño y desarrollo de servicios RESTful, la integración de bases de datos y la implementación de pruebas automatizadas. Estoy apasionado por aplicar mis habilidades en entornos colaborativos, donde pueda contribuir al crecimiento del equipo y seguir perfeccionando mis capacidades técnicas.</p>
 </div>
 
 <div align="center">
@@ -163,31 +163,18 @@
   </a>  
 </p>
 <p align="center">
-  <a href="https://github.com/francoleon08/LiterAlura-Challange" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=francoleon08&repo=LiterAlura-Challange&theme=dark" alt="LiterAlura-Challange"/>
+  <a href="https://github.com/francoleon08/movie-reservation-system" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=francoleon08&repo=movie-reservation-system&theme=dark" alt="movie-reservation-system"/>
   </a>  
   <a href="https://github.com/francoleon08/user-service" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=francoleon08&repo=user-service&theme=dark" alt="user-service"/>
   </a>  
 </p>
 
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture> Github Stats
+# <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture> Github Stats
 
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  <img  align="left"  src="https://github-readme-stats.vercel.app/api?username=francoleon08&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <br></br>
-  <img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=francoleon08&theme=dark&hide_border=false" /> 
-</td>
-
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=francoleon08&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=8"/>
-
-  </td>
-</tr>
-</table>
+<div>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=francoleon08&show_icons=true&locale=en&layout=compact&theme=dark&langs_count=20" alt="ovi" />
+</div>
 
 <p href="https://github.com/francoleon08" align="center"><img src="https://komarev.com/ghpvc/?username=francoleon08&style=for-the-badge&label=PROFILE+VIEWS&color=3e97f0"></img></p>
