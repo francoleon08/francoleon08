@@ -147,27 +147,27 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/francoleon08/proyecto-dyds" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=francoleon08&repo=proyecto-dyds&theme=dark" alt="Proyecto-DyDS"/>
+  <a href="https://github.com/francoleon08/portfolio" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=francoleon08&repo=portfolio&theme=dark" alt="Proyecto-DyDS"/>
   </a>  
-  <a href="https://github.com/francoleon08/Prodeconsa-SA" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=francoleon08&repo=Prodeconsa-SA&theme=dark" alt="Prodeconsa-SA"/>
+  <a href="https://github.com/francoleon08/email-service-py" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=francoleon08&repo=email-service-py&theme=dark" alt="Prodeconsa-SA"/>
   </a>  
 </p>
 <p align="center">
-  <a href="https://github.com/francoleon08/proyectobd2023-leon-oyarzun" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=francoleon08&repo=proyectobd2023-leon-oyarzun&theme=dark" alt="proyectobd2023-leon-oyarzun"/>
+  <a href="https://github.com/francoleon08/proyecto-topicos-microservicios" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=francoleon08&repo=proyecto-topicos-microservicios&theme=dark" alt="proyectobd2023-leon-oyarzun"/>
   </a>  
-  <a href="https://github.com/francoleon08/Planificador-de-viajes" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=francoleon08&repo=Planificador-de-viajes&theme=dark" alt="Planificador-de-viajes"/>
+  <a href="https://github.com/francoleon08/proyecto-soyd" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=francoleon08&repo=proyecto-soyd&theme=dark" alt="Planificador-de-viajes"/>
   </a>  
 </p>
 <p align="center">
   <a href="https://github.com/francoleon08/movie-reservation-system" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=francoleon08&repo=movie-reservation-system&theme=dark" alt="movie-reservation-system"/>
   </a>  
-  <a href="https://github.com/francoleon08/user-service" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=francoleon08&repo=user-service&theme=dark" alt="user-service"/>
+  <a href="https://github.com/francoleon08/proyectobd2023-leon-oyarzun" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=francoleon08&repo=proyectobd2023-leon-oyarzun&theme=dark" alt="user-service"/>
   </a>  
 </p>
 
