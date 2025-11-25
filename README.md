@@ -13,8 +13,8 @@
 
 <div align="center">
 	<p></p>
-	<p style="text-align: justify;">Puedes descargar mi CV en el siguiente enlace:</p>
-	<a href="https://github.com/francoleon08/francoleon08/blob/main/CV.pdf" target="_blanK">¡Click aqui!</a>
+	<p style="text-align: justify;">Puedes ver y descargar mi CV en el siguiente enlace:</p>
+	<a href="[https://github.com/francoleon08/francoleon08/blob/main/CV.pdf](https://francoleon.is-a.dev/CV.pdf)" target="_blanK">¡Click aqui!</a>
 </div>
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Contacto 🤝 </h3>
