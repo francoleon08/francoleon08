@@ -140,41 +140,6 @@
 </p>
 </div>
 
-
-
-<div align="left">
-  <h1>🚀 Repositorios Destacados:</h1>
-</div>
-
-<p align="center">
-  <a href="https://github.com/francoleon08/portfolio" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=francoleon08&repo=portfolio&theme=dark" alt="Proyecto-DyDS"/>
-  </a>  
-  <a href="https://github.com/francoleon08/email-service-py" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=francoleon08&repo=email-service-py&theme=dark" alt="Prodeconsa-SA"/>
-  </a>  
-</p>
-<p align="center">
-  <a href="https://github.com/francoleon08/proyecto-topicos-microservicios" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=francoleon08&repo=proyecto-topicos-microservicios&theme=dark" alt="proyectobd2023-leon-oyarzun"/>
-  </a>  
-  <a href="https://github.com/francoleon08/proyecto-soyd" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=francoleon08&repo=proyecto-soyd&theme=dark" alt="Planificador-de-viajes"/>
-  </a>  
-</p>
-<p align="center">
-  <a href="https://github.com/francoleon08/movie-reservation-system" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=francoleon08&repo=movie-reservation-system&theme=dark" alt="movie-reservation-system"/>
-  </a>  
-  <a href="https://github.com/francoleon08/proyectobd2023-leon-oyarzun" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=francoleon08&repo=proyectobd2023-leon-oyarzun&theme=dark" alt="user-service"/>
-  </a>  
-</p>
-
 # <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture> Github Stats
-
-<div>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=francoleon08&show_icons=true&locale=en&layout=compact&theme=dark&langs_count=20" alt="ovi" />
-</div>
 
 <p href="https://github.com/francoleon08" align="center"><img src="https://komarev.com/ghpvc/?username=francoleon08&style=for-the-badge&label=PROFILE+VIEWS&color=3e97f0"></img></p>
